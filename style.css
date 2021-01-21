@@ -36,6 +36,8 @@ body {
     width: var(--sidebar-width);
     height: inherit;
     position: absolute;
+    background-color: yellow;
+    color: #0f0f0f;
 }
 
 #brandLogo {
@@ -126,5 +128,9 @@ body {
         left: 7%;
         top: 4%;
         color: #0f0f0f;
+    }
+
+    #brandLogoDiv {
+        left: 40%;
     }
 }
