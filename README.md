@@ -13,7 +13,7 @@ This template provides a base that helps in building a responsive website instea
 This custom-made template has been made possible thanks to _https://www.w3schools.com/_. You can find the original design  @ _https://www.w3schools.com/cssref/css3_pr_mediaquery.asp_.
 <br>
 
-<h4>PS:</h4>Feel free to reach out to me for any suggestions/improvements!
-<br>
+**PS:** Feel free to reach out to me for any suggestions/improvements!
+<br><br>
 
 _- Happy Coding :)_
