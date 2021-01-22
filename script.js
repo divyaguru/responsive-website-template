@@ -23,3 +23,14 @@ window.addEventListener("resize", function () {
             "text-align: left"
     }
 })
+
+var footer = document.getElementsByClassName('footer');
+
+var remainingHeight = screen.height - document.body.scrollHeight;
+console.log(screen.height);
+console.log(document.body.scrollHeight);
+if (remainingHeight > 0) {
+    footer[0].style.marginTop = remainingHeight + "px";
+} else {
+    //...
+}

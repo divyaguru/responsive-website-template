@@ -81,6 +81,7 @@ body {
     flex-direction: column;
     background-color: #ffa500;
     padding: 20px;
+    max-width: 200px;
 }
 
 .sidebarLink {
